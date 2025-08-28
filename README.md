@@ -11,7 +11,7 @@ Each branch showcases a different architectural style, deployment approach, and 
 
 ### 1. `monolithic-architecture`
 
-* **Branch:** [Monolith]([./readme-file-1.md](https://github.com/MHaris404/Nodejs-Mono-to-Micro-Architecure/tree/mono))
+* **Branch:** [Monolith]((https://github.com/MHaris404/Nodejs-Mono-to-Micro-Architecure/tree/mono))
 * **Description:**
 
   * Built with Node.js (Express.js).

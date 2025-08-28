@@ -1,0 +1,22 @@
+[
+    {
+        "name": "sample product",
+        "desc": "this is a sample product",
+        "type": "grocery",
+        "banner": "jpg image link",
+        "unit": 1,
+        "price": 300,
+        "available": true,
+        "suplier": "sample suplier"
+    },
+    {
+        "name": "sample product2",
+        "desc": "this is a sample product2",
+        "type": "electronics",
+        "banner": "jpg image link",
+        "unit": 1,
+        "price": 3000,
+        "available": true,
+        "suplier": "sample suplier2"
+    }
+]

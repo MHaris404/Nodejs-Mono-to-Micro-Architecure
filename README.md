@@ -11,7 +11,7 @@ Each branch showcases a different architectural style, deployment approach, and 
 
 ### 1. `monolithic-architecture`
 
-* **Branch:** [Monolith](https://github.com/MHaris404/Nodejs-Mono-to-Micro-Architecure/tree/mono])
+* **Branch:** Monolith
 * **Description:**
 
   * Built with Node.js (Express.js).
@@ -25,7 +25,7 @@ Each branch showcases a different architectural style, deployment approach, and 
 
 ### 2. `microservices-webhook`
 
-* **Readme:** [README (Microservices + Webhooks)](./readme-file-2.md)
+* **Branch:** Microservices + Webhooks
 * **Description:**
 
   * Independent microservices for each domain.
@@ -38,7 +38,7 @@ Each branch showcases a different architectural style, deployment approach, and 
 
 ### 3. `microservices-rabbitmq`
 
-* **Readme:** [README (Microservices + RabbitMQ)](./readme-file-3.md)
+* **Branch:** Microservices + RabbitMQ
 * **Description:**
 
   * Independent services communicating via **event-driven queues (RabbitMQ / AMQP)**.
@@ -52,7 +52,7 @@ Each branch showcases a different architectural style, deployment approach, and 
 
 ### 4. `microservices-rabbitmq-sentry`
 
-* **Readme:** [README (Microservices + RabbitMQ + Sentry)](./readme-file-4.md)
+* **Branch:** Microservices + RabbitMQ + Sentry
 * **Description:**
 
   * All features from `microservices-rabbitmq`.

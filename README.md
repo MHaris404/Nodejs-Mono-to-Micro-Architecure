@@ -1,11 +1,5 @@
 # Nodejs-Mono-to-Micro-Architecure
 
-Here’s a **Git Branch Index README** you can place at the root (`README.md`) of your project to serve as a summary/index pointing to the different branches and their respective architectures:
-
----
-
-# Nodejs-Mono-to-Micro-Architecture
-
 **Branch Index & Project Summary**
 
 This repository demonstrates the evolution of a **Grocery Online Shopping App** from a **Monolithic Node.js architecture** to multiple **Microservices-based architectures**.
